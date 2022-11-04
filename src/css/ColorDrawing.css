@@ -1,0 +1,37 @@
+.color_wrapper {
+  position: relative;
+}
+.color_wrapper-content {
+  margin-left: 306px;
+  position: absolute;
+  top: 0px;
+  height: 100%;
+}
+
+.color_wrapper-display {
+  width: 82px;
+  height: 82px;
+}
+
+.color_wrapper-display--model {
+  width: 100%;
+  height: 50%;
+  pointer-events: none;
+}
+
+.color_wrapper-ward {
+  position: absolute;
+  box-shadow: 0px 0px 4px 1px rgb(10 10 10);
+  pointer-events: none;
+}
+
+.color_wrapper-bar {
+  width: 19px;
+  height: 6px;
+}
+
+.color_wrapper-bax {
+  width: 6px;
+  height: 6px;
+  border-radius: 6px;
+}
